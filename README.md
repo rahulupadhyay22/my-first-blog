@@ -76,6 +76,13 @@ python manage.py createsuperuser
 
 <p>Then, log in at /admin to add new posts.</p>
 
+## Project Structure
+`blog/:` Contains Django apps related to the blog.
+
+`mysite/:` Django project configuration files.
+
+`requirements.txt:` Python dependencies.
+
 ## Contributing
 Contributions are welcome! To contribute:
 
